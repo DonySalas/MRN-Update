@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <!-- La versión de la nueva actualización. Debe coincidir con la de Visual Studio -->
-    <version>1.0.1.0</version>
+    <version>1.0.0.0</version>
     
     <!-- El link DIRECTO de descarga de tu archivo .zip en GitHub Releases -->
     <url>https://github.com/TuUsuario/MarNevado-Updates/releases/download/win-v1.0.1.0/MarNevado_Windows_v1.0.1.zip</url>
