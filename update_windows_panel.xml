@@ -4,7 +4,7 @@
     <version>1.0.0.0</version>
     
     <!-- El link DIRECTO de descarga de tu archivo .zip en GitHub Releases -->
-    <url>https://github.com/TuUsuario/MarNevado-Updates/releases/download/win-v1.0.1.0/MarNevado_Windows_v1.0.1.zip</url>
+    <url>https://github.com/DonySalas/MRN-Update/releases/download/win-v1.0.0.0/MRN_WIN_v1.0.0.0.zip</url>
     
     <!-- (Opcional) El link a la página donde explicas qué hay de nuevo -->
     <changelog>https://github.com/TuUsuario/MarNevado-Updates/releases/tag/win-v1.0.1.0</changelog>
