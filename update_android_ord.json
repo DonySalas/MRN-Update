@@ -1,7 +1,7 @@
 {
-    "versionCode": 5,
-    "versionName": "1.4.0",
-    "apkUrl": "https://github.com/DonySalas/MRN-Update/releases/download/apk-v1.4.0/app-release.apk",
-    "releaseNotes": "🚀 ¡Nueva Actualización Disponible! 🚀\nHemos lanzado una nueva versión con mejoras diseñadas para hacer tu gestión más rápida y eficiente.\n\n🍽️ Gestión de Mesas y Pedidos\n- Mesas dinámicas: Al crear una orden nueva, solo verás las mesas disponibles. Para agregar productos a una mesa abierta, hazlo directamente desde su cuenta.\n- Opción \"Para Llevar\": Al crear una cuenta, ahora tienes un botón dedicado para pedidos para llevar 🛍️.\n\n💳 Control Total de tus Cuentas\n- División de cuentas ➗: Entra a la cuenta, toca los tres puntos y selecciona \"Dividir cuenta\" para separar los productos.\n- Nombres y descripciones 🏷️: Ponle título o descripción a cada cuenta para identificarla al instante.\n- Eliminar cuentas 🗑️: Ya puedes borrar cuentas (abiertas o cerradas) directamente desde la app.\n\n💰 Pagos, Propinas y Facturación\n- Módulo de Propinas: Al facturar, puedes agregar propina usando un atajo del 10% o ingresando el valor manual.\n- Excepción \"Para Llevar\": Estos pedidos no llevan el valor de la propina en el recibo impreso.\n- Ahorro de papel 🖨️: Editar una cuenta ya facturada no volverá a imprimir el recibo.\n\n📊 Nuevos Reportes\n- Informe en pantalla 📱: Nueva sección que muestra un resumen de ventas agrupado por método de pago.\n- Excel más completo 📗: El reporte ahora incluye columnas detalladas mostrando las propinas y los descuentos aplicados.",
+    "versionCode": 6,
+    "versionName": "1.4.1",
+    "apkUrl": "https://github.com/DonySalas/MRN-Update/releases/download/apk-v1.4.1/app-release.apk",
+    "releaseNotes": "✨ ¡Nueva actualización disponible!\n\n💸 Opción para retirar o quitar la propina en cuentas que ya la tenían agregada.\n🖨️ Corregido el error que impedía volver a imprimir una cuenta cerrada.\n🪑 Solucionada la falla ocasional al seleccionar mesas al crear una cuenta nueva.",
     "isMandatory": true
 }
