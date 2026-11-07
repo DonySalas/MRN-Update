@@ -1,5 +1,5 @@
 {
-    "versionCode": 5,
+    "versionCode": 6,
     "versionName": "1.4.1",
     "apkUrl": "https://github.com/DonySalas/MRN-Update/releases/download/apk-v1.4.1/app-release.apk",
     "releaseNotes": "✨ ¡Nueva actualización disponible!\n\n💸 Opción para retirar o quitar la propina en cuentas que ya la tenían agregada.\n🖨️ Corregido el error que impedía volver a imprimir una cuenta cerrada.\n🪑 Solucionada la falla ocasional al seleccionar mesas al crear una cuenta nueva.",
